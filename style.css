@@ -1,0 +1,19 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  font-family: "Outfit", sans-serif;
+}
+.p-1 {
+  font-weight: 700;
+}
+
+.p-2 {
+  font-weight: 400;
+}
