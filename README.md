@@ -17,4 +17,4 @@ Through this challenge, I've learned about the use of mediaqueries and more abou
 
 ## Author
 
-- Frontend Mentor - [@hemanth-92](https://www.frontendmentor.io/solutions/flexbox-Pkq1Ojwjg2)
+- Frontend Mentor - [@hemanth-92](https://www.frontendmentor.io/profile/hemanth-92)
